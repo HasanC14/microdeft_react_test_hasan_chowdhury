@@ -1,3 +1,10 @@
+*{
+    font-family: 'Oswald';
+    
+}
+body{
+    background: linear-gradient(to right, #070F2B, #1B1A55);
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
